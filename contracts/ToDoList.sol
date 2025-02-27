@@ -5,7 +5,7 @@ contract ToDoList {
     address owner;
 
     enum TaskStatus {
-        Finished, Pending
+        Pending, Finished
     }    
 
     struct Task {
