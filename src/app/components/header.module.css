@@ -9,7 +9,7 @@
 }
 
 .nav_brand h1 {
-  color: var(--clr-blue);
+  color: #0070f3;
   font-size: 2.5em;
   font-weight: 800;
 }
@@ -19,8 +19,8 @@
   width: 175px;
   height: 50px;
   align-self: center;
-  background-color: var(--clr-blue);
-  color: var(--clr-white);
+  background-color: #0070f3;
+  color: white;
   border: none;
   border-radius: 4px;
   font-family: "Open Sans";
@@ -31,5 +31,5 @@
 }
 
 .nav_connect:hover {
-  background-color: var(--clr-blue-2);
+  background-color:  #0b84ff;
 }

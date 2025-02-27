@@ -1,12 +1,3 @@
-:root {
-  --clr-white: #FFFFFF;
-  --clr-black: #202020;
-  --clr-grey: #707070;
-  --clr-blue: #0900b3;
-  --clr-blue-2: #0d00ff;
-  --clr-green: #4fb646;
-}
-
 html,
 body {
   max-width: 100vw;
